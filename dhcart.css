@@ -1,0 +1,29 @@
+form 			{ margin:0; }
+form td	 		{ border-width:0; padding: 5px 5px 0 0; }
+
+tbody.on  		{ display:table-row-group; }
+tbody.off 		{ display:none; }
+
+.dhcart_title 		{ font-family: Arial, Helvetica, sans-serif; color: #C88039; font-size:13px; font-weight : bold; margin:.5em 0; }
+.dhcart_text 		{ font-family : Arial, Helvetica, sans-serif; font-size:12px; color: #000000; }
+
+.dhcart_cart 		{ border-width: 1px; border-color: #ffffff;  border-collapse: collapse; width:100%; }
+.dhcart_cart td		{ padding: 5px; }
+
+.dhcart_td1 		{ border-width: 1px; border-style: solid; border-color: #eee; background-color: #e8f1fa; font-family: helvetica,arial,sans-serif; font-size:12px; color: #000000; font-weight : bold; text-align:center; }
+.dhcart_td2 		{ border-width: 1px; border-style: solid; border-color: #eee; background-color: #ffffff; font-family: helvetica,arial,sans-serif; font-size:12px; color: #000000; }
+.dhcart_td3 		{ border-width: 1px; border-style: solid; border-color: #eee; background-color: #eeeeee; font-family: helvetica,arial,sans-serif; font-size:12px; color: #000000; font-weight : bold; }
+
+.dhcart_button 		{ font-family: helvetica,arial,sans-serif; font-size: 12px; border:1px solid #d5bd98; border-right-color:#935e0d; border-bottom-color:#935e0d; background:#ffa822 url(btn_bg_sprite.gif) left 17.5% repeat-x;}
+
+.dhcart_input_domain 	{ width: 200px; border : 1px solid #adc2d6; background-color : #ffffff; font-family : Arial, Helvetica, sans-serif; font-size : 12px; }
+.dhcart_input_coupon 	{ width: 100px; border : 1px solid #adc2d6; background-color : #ffffff; font-family : Arial, Helvetica, sans-serif; font-size : 12px; }
+.dhcart_input_form 	{ width: 180px; border : 1px solid #adc2d6; background-color : #ffffff; font-family : Arial, Helvetica, sans-serif; font-size : 12px; }
+.dhcart_input_captcha 	{ width: 50px;  border : 1px solid #adc2d6; background-color : #ffffff; font-family : Arial, Helvetica, sans-serif; font-size : 12px; }
+
+.dhcart_select 		{ border:1px solid #adc2d6; font-family : Arial, Helvetica, sans-serif; font-size : 11px; }
+
+a.dhcart:link 		{ font-family : Arial, Helvetica, sans-serif; color : #000000; text-decoration : underline; font-size : 12px; font-weight: bold; }
+a.dhcart:visited 	{ font-family : Arial, Helvetica, sans-serif; color : #000000; text-decoration : underline; font-size : 12px; font-weight: bold; } 
+a.dhcart:active 	{ font-family : Arial, Helvetica, sans-serif; color : #000000; text-decoration : none; font-size : 12px; font-weight: bold; } 
+a.dhcart:hover 		{ font-family : Arial, Helvetica, sans-serif; color : #000000; text-decoration : none; font-size : 12px; font-weight: bold; }
